@@ -39,17 +39,6 @@ This is a static landing page for the "Foody Zone" food website. It showcases va
 
 5. Open your browser and visit `http://localhost:3000` to view the landing page.
 
-## Project Structure
-
-```plaintext
-src/
-├── assets/            # Images and static assets
-├── components/        # Reusable React components
-├── styles/            # Custom CSS or Tailwind configurations
-├── App.js             # Main App component
-├── index.js           # Entry point
-└── ...
-```
 
 
 ## Future Enhancements
