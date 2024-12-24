@@ -1,0 +1,24 @@
+/* App.css */
+.bg-image {
+    background-image: url('./assets/image/background.jpeg'); 
+    background-size: cover;
+    background-position: center;
+    filter: blur(8px); /* Blur effect */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -99; /* Push the background behind content */
+  }
+  
+  .overlay {
+    background-color: rgba(0, 0, 0, 0.425); /* Dark overlay */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -20; /* Place the overlay behind content but above the background */
+  }
+  

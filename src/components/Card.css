@@ -1,0 +1,13 @@
+.card {
+position: relative;
+  width: 320px;
+  padding: 16px;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.1); /* Transparent background */
+  backdrop-filter: blur(10px); /* Blur effect */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25); /* Optional shadow */
+  color: white;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  }
